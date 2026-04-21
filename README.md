@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Dao Lam 👋
 
-<!--
-**daolam1734/daolam1734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m building and sharing software projects
+- 🌱 I’m continuously learning and improving my development skills
+- 🤝 I’m open to collaboration on useful and interesting ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I do
+- Write clean and maintainable code
+- Explore modern development tools and workflows
+- Contribute and grow through hands-on projects
+
+## 📫 Connect
+- GitHub: [@daolam1734](https://github.com/daolam1734)
